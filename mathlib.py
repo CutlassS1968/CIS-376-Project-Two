@@ -1,4 +1,7 @@
 """CIS 376 Project Two - Math Library
+Author:
+    Evan Johns
+
 Requirements:
     * Data structures
         [x] Vec2 has 3 coordinates (one extra for homogenous coordinate or w value)
